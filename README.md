@@ -103,6 +103,16 @@ python main.py avg --student-id 1 --course CS101
 python main.py gpa --student-id 1
 ```
 
+## Demo
+
+Below is an example of using the CLI to:
+- Add a grade
+- List enrollments
+- Compute average
+- Compute GPA
+
+![CLI Demo](CLI-demo.png)
+
 ## Testing
 
 Run unit tests using:
