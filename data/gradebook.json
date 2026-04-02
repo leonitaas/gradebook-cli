@@ -19,5 +19,13 @@
             "title": "Mathematics"
         }
     ],
-    "enrollments": []
+    "enrollments": [
+        {
+            "student_id": 1,
+            "course_code": "CS101",
+            "grades": [
+                90.0
+            ]
+        }
+    ]
 }
