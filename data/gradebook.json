@@ -7,6 +7,14 @@
         {
             "id": 2,
             "name": "Bob"
+        },
+        {
+            "id": 3,
+            "name": "Leonita"
+        },
+        {
+            "id": 4,
+            "name": "Sara"
         }
     ],
     "courses": [
@@ -25,6 +33,20 @@
             "course_code": "CS101",
             "grades": [
                 90.0
+            ]
+        },
+        {
+            "student_id": 3,
+            "course_code": "MATH101",
+            "grades": [
+                80.0
+            ]
+        },
+        {
+            "student_id": 4,
+            "course_code": "MATH101",
+            "grades": [
+                97.0
             ]
         }
     ]
